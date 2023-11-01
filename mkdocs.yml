@@ -1,0 +1,12 @@
+site_name: Information Security Operations Hub
+theme:
+  name: material
+  language: en
+  palette: 
+    scheme: default
+    primary: indigo
+    accent: indigo
+extra:
+  search:
+    language: en
+  
