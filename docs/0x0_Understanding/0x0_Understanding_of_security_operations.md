@@ -1,1 +1,0 @@
-#Understanding of security operations

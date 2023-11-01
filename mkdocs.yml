@@ -6,7 +6,4 @@ theme:
     scheme: default
     primary: indigo
     accent: indigo
-extra:
-  search:
-    language: en
-  
+
